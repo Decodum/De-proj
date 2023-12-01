@@ -1,0 +1,9 @@
+.DS_Store
+attempt*.log
+*.log
+*.pyc
+.venv
+/venv
+.env
+/env
+airflow/logs/scheduler/latest
